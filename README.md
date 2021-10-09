@@ -1,3 +1,3 @@
 # Gilberto Coxca
 arrow function structure
-(a, b) => a + b + 100;
+\n(a, b) => a + b + 100;
